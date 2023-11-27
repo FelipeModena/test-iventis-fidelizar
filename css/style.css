@@ -5,6 +5,7 @@
   --base-white: #ffffff;
   --brand-gray: #444242;
   --brand-green: #04a64b;
+  font-family: Poppins;
 }
 
 .img-base {
@@ -15,15 +16,34 @@ body {
   font-size: 18px;
   --bs-success: var(--brand-green);
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+button,
+p,
+span,
+label {
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 
 .btn-link {
   color: var(--brand-gray-main);
 }
 
-p{
-    color: var(--brand-gray-main);
+p {
+  color: var(--brand-gray-main);
 }
 
-label{
-    color: var(--brand-gray-main);
+label {
+  color: var(--brand-gray-main);
 }

@@ -1,8 +1,8 @@
-### [Tab A](#tab/tab-a)
+### [English](#tab/tab-english)
 
 # Overview
 
-This Git repository contains a simple HTML, CSS, and JavaScript task aimed at creating a mock template based on the provided Figma layout. The task is designed to showcase your skills in front-end development and the ability to translate design concepts into a fully functional and visually appealing web page.
+This Git repository contains a simple HTML, CSS, and JavaScript task aimed at creating a mock template based on the provided Figma layout. The task is designed to showcase my skills in front-end development and the ability to translate design concepts into a fully functional and visually appealing web page.
 
 # Task Description
 
@@ -15,11 +15,11 @@ Create a pixel-perfect web page based on the Figma layout provided by Iventis.
 - **CSS:** Style the elements to match the design specifications.
 - **JavaScript:** Add interactivity and enhance user experience.
 
-### [Tab B](#tab/tab-b)
+### [Português](#tab/tab-portuguese)
 
 # Visão Geral
 
-Este repositório Git contém uma tarefa simples de HTML, CSS e JavaScript com o objetivo de criar um modelo simulado com base no layout fornecido pelo Figma. A tarefa foi projetada para destacar suas habilidades em desenvolvimento front-end e a capacidade de traduzir conceitos de design em uma página web totalmente funcional e visualmente atraente.
+Este repositório Git contém uma tarefa simples de HTML, CSS e JavaScript com o objetivo de criar um modelo simulado com base no layout fornecido pelo Figma. A tarefa foi projetada para destacar minhas habilidades em desenvolvimento front-end e a capacidade de traduzir conceitos de design em uma página web totalmente funcional e visualmente atraente.
 
 # Descrição da Tarefa
 
@@ -32,4 +32,3 @@ Criar uma página web perfeita em pixels com base no layout do Figma fornecido p
 - **CSS:** Estilize os elementos para corresponder às especificações de design.
 - **JavaScript:** Adicione interatividade e aprimore a experiência do usuário.
 
----

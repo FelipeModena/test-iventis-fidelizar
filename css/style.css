@@ -1,3 +1,29 @@
+:root {
+  --brand-gray-extra-light: #e7e7e7;
+  --brand-gray-light: #a9aeb8;
+  --brand-gray-main: #737b8a;
+  --base-white: #ffffff;
+  --brand-gray: #444242;
+  --brand-green: #04a64b;
+}
+
 .img-base {
   object-fit: scale-down;
+}
+
+body {
+  font-size: 18px;
+  --bs-success: var(--brand-green);
+}
+
+.btn-link {
+  color: var(--brand-gray-main);
+}
+
+p{
+    color: var(--brand-gray-main);
+}
+
+label{
+    color: var(--brand-gray-main);
 }

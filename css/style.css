@@ -38,7 +38,7 @@ label {
 }
 
 .btn-link {
-  color: var(--brand-gray-main);
+  color: var(--brand-gray);
 }
 
 p {
@@ -65,8 +65,13 @@ label {
 .custom-card {
   background-color: rgba(255, 255, 255, 0.9);
 }
+
 .custom-card p {
   color: var(--brand-black);
   font-style: italic;
+  font-weight: 400;
+}
 
+.custom-card span {
+  font-weight: 600;
 }

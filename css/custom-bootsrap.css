@@ -8,11 +8,29 @@
   color: var(--brand-green);
 }
 
-
-.btn{
-    padding: 12px;
+.btn {
+  padding: 12px;
 }
 
- p, span{
+p,
+span {
   font-weight: 500;
- }
+}
+
+.form-select {
+  color: var(--input-brand-gray-light);
+  background-image: url(../imgs/chevron-down-solid\ 1.svg);
+}
+
+
+.carousel-indicators [data-bs-target]{
+  width: 12px;
+  border-radius: 12px;
+  border-top: 5px solid transparent;
+
+}
+
+.carousel-indicators .active{
+  width: 24px;
+  padding: 1px;
+}

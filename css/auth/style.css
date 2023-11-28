@@ -17,24 +17,18 @@
   border-radius: 16px;
 }
 
-.carousel-indicators [data-bs-target]{
-    width: 12px;
-    border-radius: 12px;
+#section-1 {
+  padding-top: 3rem;
+  margin-right: 7rem;
 }
 
-
-#section-1{
-    padding-top: 3rem;
-    margin-right: 7rem;
+#login-form {
+  border-radius: 16px;
+  box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 25px 25px 0px 0px;
+  background: var(--base-white, #fff);
 }
 
-#login-form{
-    border-radius: 16px;
-    box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.08);
-    border-radius: 25px 25px 0px 0px;
-background: var(--base-white, #FFF);
-}
-
-#bottom-buttons-actions{
-    margin-top: 10rem;
+#bottom-buttons-actions {
+  margin-top: 10rem;
 }

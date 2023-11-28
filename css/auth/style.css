@@ -38,3 +38,9 @@
 #bottom-buttons-actions {
   margin-top: 10rem;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1300px) {
+  #body-section {
+    margin-right: 0;
+  }
+}

@@ -54,11 +54,6 @@ span {
 label {
   color: var(--brand-gray-main);
 }
-@media screen and (min-width: 1024px) and (max-width: 1300px) {
-  #body-section {
-    margin-right: 0;
-  }
-}
 
 .text-black {
   color: var(--brand-gray-main);

@@ -6,7 +6,8 @@
 }
 
 #carouselLoginIndicator .carousel-inner {
-  margin-top: 90%;
+  margin-top: 120%;
+  padding: 1rem;
 }
 #carouselLoginIndicator .carousel-indicators {
   bottom: -40px;

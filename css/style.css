@@ -62,6 +62,8 @@ label {
 
 .text-black {
   color: var(--brand-gray-main);
+  font-weight: 400;
+  font-size: 1rem;
 }
 
 .custom-card {

@@ -1,25 +1,27 @@
 .btn-success {
   background-color: var(--brand-green);
   border-color: var(--brand-green);
+  font-weight: 500;
+
 }
 
 .btn-outline-success {
   border-color: var(--brand-green);
   color: var(--brand-green);
+  font-weight: 500;
+
 }
 
 .btn {
   padding: 12px;
 }
 
-p,
-span {
-  font-weight: 500;
-}
+
 
 .form-select {
   color: var(--input-brand-gray-light);
   background-image: url(../imgs/chevron-down-solid\ 1.svg);
+ padding: .25rem 2.25rem .25rem .75rem; 
 }
 
 

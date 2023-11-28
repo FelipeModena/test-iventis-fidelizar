@@ -31,8 +31,8 @@
           </div>
           <div class="row">
             <form class="px-5 py-4 mt-3" id="login-form">
-              <h5>Olá, bem vindo novamente</h5>
-              <div class="mb-3">
+              <h5 class="mt-4">Olá, bem vindo novamente</h5>
+              <div class="mb-3 mt-4">
                 <label for="exampleInputEmail1" class="form-label"
                   >Informe seu e-mail</label
                 >
@@ -44,7 +44,7 @@
                   aria-describedby="emailHelp"
                 />
               </div>
-              <div class="mb-3">
+              <div >
                 <label for="exampleInputPassword1" class="form-label"
                   >Insira sua senha</label
                 >
@@ -54,12 +54,16 @@
                   id="exampleInputPassword1"
                 />
               </div>
-              <div class="mb-3 text-end">
+              <div class="text-end">
                 <button type="button" class="btn btn-link">
                   Esqueci minha senha
                 </button>
               </div>
-              <button type="button" class="btn btn-success w-100">
+              <button
+                type="button"
+                class="btn btn-success w-100"
+                onclick="submitFormToAPI()"
+              >
                 Acessar minha conta
               </button>
               <div class="text-center mt-5">
@@ -70,7 +74,7 @@
               </div>
             </form>
           </div>
-          <div class="row" id="bottom-buttons-actions">
+          <div class="row py-1 pb-3" id="bottom-buttons-actions">
             <img
               src="imgs/productlogo_fidelidade.png"
               alt=""
@@ -88,7 +92,7 @@
             />
           </div>
         </div>
-        <div class="col-5" id="section-2">
+        <div class="col" id="section-2">
           <div
             id="carouselLoginIndicator"
             class="carousel slide"

@@ -1,4 +1,14 @@
-.btn-success{
-    background-color: var(--brand-green);
-border-color: var(--brand-green);
+.btn-success {
+  background-color: var(--brand-green);
+  border-color: var(--brand-green);
+}
+
+.btn-outline-success {
+  border-color: var(--brand-green);
+  color: var(--brand-green);
+}
+
+
+.btn{
+    padding: 12px;
 }

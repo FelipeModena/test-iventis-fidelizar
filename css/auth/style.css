@@ -25,9 +25,14 @@
 
 #login-form {
   border-radius: 16px;
-  box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.08);
-  border-radius: 25px 25px 0px 0px;
-  background: var(--base-white, #fff);
+  box-shadow: 20px -14px 48px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 25px 25px ;
+  border-bottom: none;
+
+  background: linear-gradient(
+    var(--base-white, #ebeaea),
+    var(--base-white, #ffffff)
+  );
 }
 
 #bottom-buttons-actions {

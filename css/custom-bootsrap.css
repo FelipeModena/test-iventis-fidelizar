@@ -12,3 +12,7 @@
 .btn{
     padding: 12px;
 }
+
+ p, span{
+  font-weight: 500;
+ }
